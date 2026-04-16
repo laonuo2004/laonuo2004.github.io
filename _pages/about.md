@@ -22,6 +22,7 @@ I am currently working on **Multimodal Graph RAG for document QA**.
 The project focuses on **multimodal long document question answering**, where textual and visual evidence must be retrieved and organized jointly.
 
 I am building a graph-enhanced retrieval pipeline to model cross-modal relationships and improve evidence organization and retrieval quality.  
+
 This work is ongoing, and updates will be posted here.
 
 ## News
