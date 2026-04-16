@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yilong Zuo | Academic Homepage"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,10 @@ I'm interested in how graph structures and multimodal information interact, part
 
 Recent work includes multimodal attributed graphs, multimodal document understanding with graph-based retrieval, and exploring how LLM-based agents can optimize graph structures.
 
-## Contact & Links
+## Recent Updates
 
-- **Email**: [1120231863@bit.edu.cn](mailto:1120231863@bit.edu.cn)
-- **GitHub**: [@laonuo2004](https://github.com/laonuo2004)
-- **Google Scholar**: [My Profile](https://scholar.google.com/citations?user=AfIIgb0AAAAJ)
-- **ORCID**: [0009-0000-9350-1397](https://orcid.org/0009-0000-9350-1397)
-- **WeChat**: 18718882918
-- **CV**: [Download PDF](../files/cv.pdf)
+- **2026-04**: Personal academic homepage launched and structure finalized.
+- **2026-04**: Updated profile and research statement for advisor/recruiter readability.
+- **2026-04**: Ongoing work focused on multimodal learning, graph learning, and LLM-related topics.
 
 Feel free to reach out if you're interested in my work or want to discuss research!

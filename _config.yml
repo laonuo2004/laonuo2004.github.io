@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Yilong Zuo"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year undergraduate in Computer Science at Beijing Institute of Technology, researching multimodal learning and graph learning."
+  bio              : "<strong>Undergraduate</strong> in Computer Science<br><strong>Beijing Institute of Technology</strong><br>Researching multimodal learning and graph learning."
   location         : "Beijing, China"
   employer         : # "Prof. Ronghua Li's Group"
   uri              : # URL
   email            : "1120231863@bit.edu.cn" 
+  wechat           : "18718882918"
 
   # Academic websites
   academia         : # URL
@@ -57,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
