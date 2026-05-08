@@ -27,7 +27,8 @@ This work is ongoing, and updates will be posted here.
 
 ## News
 
-- **2026-04**: Submitted one paper to ACM MM 2026; preprint available on [arXiv](https://arxiv.org/abs/2604.12271).
-- **2026-02**: Submitted two papers to ICML 2026; preprints available on [arXiv (OpenMAG)](https://arxiv.org/abs/2602.05576) and [arXiv (LAGA)](https://arxiv.org/abs/2510.08952).
+- **2026-05**: One paper accepted to ICML 2026 🥳! preprint available on ArXiv: [OpenMAG: A Comprehensive Benchmark for Multimodal-Attributed Graph](https://arxiv.org/abs/2602.05576)
+- **2026-05**: Submitted one papers to NeurIPS 2026; preprint available on ArXiv: [When LLM Agents Meet Graph Optimization: An Automated Data Quality Improvement Approach](https://arxiv.org/abs/2510.08952).
+- **2026-04**: Submitted one paper to ACM MM 2026; preprint available on ArXiv: [RoleMAG: Learning Neighbor Roles in Multimodal Graphs](https://arxiv.org/abs/2604.12271).
 
 Feel free to reach out if you're interested in my work or want to discuss research!
